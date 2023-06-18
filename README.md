@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrbadshah69&label=Profile%20views&color=0e75b6&style=flat" alt="mrbadshah69" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mrbadshah69&label=Profile%20views&color=0e75b6&style=flat" alt="mrbadshah69" /> </p>
 
 - 🌱 I’m currently learning **HTML5 with responsive web design,Web development using php & laravel Courses Etc**
 
