@@ -13,7 +13,7 @@
 - 📫 How to reach me **mrbadshahbusiness@gmail.com**
 
 - 📄 Know about my experiences
- <img src="https://media1.giphy.com/media/fgdgMLDSlpl1wKcuGb/giphy.gif">
+ <img width="400" src="https://media1.giphy.com/media/fgdgMLDSlpl1wKcuGb/giphy.gif">
  
  - ⚡ Fun fact **I am not like wasting time**
 
