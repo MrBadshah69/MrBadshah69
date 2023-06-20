@@ -11,12 +11,17 @@
 - 💬 Ask me about **I want to use my capabilities in the further improve my skills & my knowledge. To utilize my expertise in mobile software and social media marketing to contribute effectively in a dynamic organization. Seeking a challenging position where I can apply my skills in MS Office, WordPress, HTML, mobile software, mobile repairing, basic Photoshop, SEO. Committed to delivering high-quality solutions, optimizing online presence, and enhancing user experiences**
 
 - 📫 How to reach me **mrbadshahbusiness@gmail.com**
-
-- 📄 Know about my experiences
- <img width="400" src="https://media1.giphy.com/media/fgdgMLDSlpl1wKcuGb/giphy.gif">
- 
  - ⚡ Fun fact **I am not like wasting time**
-
+- 📄 Know about my experiences
+  <br>
+  <a href="https://github.com/MrBadshah69/MrBadshah69/blob/main/Muhammad%20Arsalan%20Resume-page-0.gif?raw=true">
+  <img width="400" align="left" src="https://media1.giphy.com/media/fgdgMLDSlpl1wKcuGb/giphy.gif">
+<br>
+<br>
+<br
+<br>
+<br>
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mrbadshah6969" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrbadshah6969" height="30" width="40" /></a>
