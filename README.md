@@ -14,7 +14,7 @@
  - ⚡ Fun fact **I am not like wasting time**
 - 📄 Know about my experiences
   <br>
-  <a href="https://github.com/MrBadshah69/MrBadshah69/blob/main/Muhammad%20Arsalan%20Resume-page-0.gif?raw=true">
+  <a href="https://mrbadshah69.github.io/Muhammad-Arsalan.github.io/">
   <img width="400" align="left" src="https://media1.giphy.com/media/fgdgMLDSlpl1wKcuGb/giphy.gif">
 <br>
 <br>
