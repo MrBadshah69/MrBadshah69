@@ -15,7 +15,7 @@
 - 📄 Know about my experiences
   <br>
   <a href="https://mrbadshah69.github.io/Muhammad-Arsalan.github.io/">
-  <img width="400" align="left" src="https://media1.giphy.com/media/fgdgMLDSlpl1wKcuGb/giphy.gif">
+  <img width="300" align="left" src="https://media1.giphy.com/media/fgdgMLDSlpl1wKcuGb/giphy.gif">
 <br>
 <br>
 <br
