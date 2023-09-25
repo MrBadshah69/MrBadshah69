@@ -1,4 +1,4 @@
-![Logo](https://github.com/MrBadshah69/pic/blob/main/jpg_20230428_020850_0000.jpg)
+![Logo](https://github.com/MrBadshah69/pic/blob/main/Muhammad%20arsalan%20banner.jpg)
 <h1 align="center">Hi 👋, I'm Muhammad Arsalan</h1>
 <h3 align="center">A passionate developer from Pakistan</h3>
 
@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **HTML5 with responsive web design,Web development using php & laravel Courses Etc**
 
-- 💬 Ask me about **I want to use my capabilities in the further improve my skills & my knowledge. To utilize my expertise in mobile software and social media marketing to contribute effectively in a dynamic organization. Seeking a challenging position where I can apply my skills in MS Office, WordPress, HTML, mobile software, mobile repairing, basic Photoshop, SEO. Committed to delivering high-quality solutions, optimizing online presence, and enhancing user experiences**
+- 💬 Ask me about <br>**Hello:)<br>I am Muhammad Arsalan I am Web Developer and designer I am fresher but I have so many knowledge I have very few projects uploaded on my GitHub account, and the link to my portfolio website is prominently displayed of my account. I have completed my matriculation and am currently pursuing my intermediate education. I work as a web designer and developer, and I am continuing my courses with Aptech Pakistan.**
 
 - 📫 How to reach me **mrbadshahbusiness@gmail.com**
  - ⚡ Fun fact **I am not like wasting time**
