@@ -1,6 +1,6 @@
 ![Logo](https://github.com/MrBadshah69/pic/blob/main/jpg_20230428_020850_0000.jpg)
 <h1 align="center">Hi 👋, I'm Muhammad Arsalan</h1>
-<h3 style="color: #fff;" align="center">A passionate developer from Pakistan</h3>
+<h3 align="center">A passionate developer from Pakistan</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
